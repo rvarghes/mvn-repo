@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>aii.base</groupId>
+  <artifactId>util_api</artifactId>
+  <versioning>
+    <release>NW07_05_REL</release>
+    <versions>
+      <version>NW07_05_REL</version>
+    </versions>
+    <lastUpdated>20141022125928</lastUpdated>
+  </versioning>
+</metadata>
