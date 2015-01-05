@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 02 13:03:07 EST 2015
-SMSCore-1.0.pom>=
+#Sun Jan 04 20:35:35 EST 2015
+SMSCore-1.0.jar>rvarghes-mvn-repo=
 SMSCore-1.0.jar>=
+SMSCore-1.0.pom>rvarghes-mvn-repo=
